@@ -41,7 +41,7 @@ depi_sales_forecasting/
 
 Installation
 # 1. Clone the repository
-git clone <YOUR_REPO_LINK>
+git clone <REPO_LINK>
 cd depi_sales_forecasting
 
 # 2. Create a virtual environment
